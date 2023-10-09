@@ -9,5 +9,6 @@ public class Main {
         System.out.println("feat: add function 2 (feature/for_next_release)");
         System.out.println("feat: add function 3 (feature/for_next_release)");
         System.out.println("fix: bugfix (release/release_branch_for_1.0)");
+        System.out.println("fix: bugfix 2 (release/release_branch_for_1.0)");
     }
 }
