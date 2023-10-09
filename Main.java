@@ -12,5 +12,6 @@ public class Main {
         System.out.println("fix: bugfix 2 (release/release_branch_for_1.0)");
         System.out.println("fix: bugfix 3 (release/release_branch_for_1.0)");
         System.out.println("fix: bugfix 4 (release/release_branch_for_1.0)");
+        System.out.println("fix: bugfix 1 (release/release_branch_for_1.1)");
     }
 }
