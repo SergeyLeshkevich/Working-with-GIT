@@ -4,5 +4,6 @@ public class Main {
         System.out.println("feat: add function 2 (develop)");
         System.out.println("feat: add function 3 (develop)");
         System.out.println("feat: add function 4 (develop)");
+        System.out.println("fix: bugfix (hotfix)");
     }
 }
